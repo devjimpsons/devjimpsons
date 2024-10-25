@@ -3,8 +3,7 @@
 👀 I'm interested in Bot Development, Machine Learning, and Content Moderation Systems
 🌱 I'm currently learning Advanced Python, Image Processing, and Natural Language Processing
 💞️ I'm looking to collaborate on AI/ML projects and Automation Tools
-📫 How to reach me: [Your preferred contact method]
-😄 Pronouns: [Your pronouns]
+📫 How to reach me: dev.jimpsons@jimpsons.com
 ⚡ Fun fact: I built a Telegram bot that can detect and filter inappropriate content!
 
 🤖 Featured Project: Nepgram_Bot
